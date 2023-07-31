@@ -78,7 +78,7 @@ a {
 }
 
 .link:hover {
-  background-color: linear-gradient(to bottom, rgba(125, 255, 179, 1), rgba(125, 255, 179, 1));
+  background-image: linear-gradient(to bottom, rgba(125, 255, 179, 1), rgba(125, 255, 179, 1));
   cursor: pointer;
 }
 
